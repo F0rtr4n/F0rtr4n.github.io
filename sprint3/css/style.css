@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rowdies:wght@300&display=swap');
+
+h1{
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+text-align: justify;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+}
+ #bioHeader{
+     color: brown;
+     
+ }      
+ #skillsHeader{
+     color: coral;
+ }      
+
+ .content{
+    color: gray;
+    font-family: 'Rowdies', sans-serif;
+     font-size: 24px;
+     text-align: left;
+     line-height: normal;
+     font-weight: lighter;
+    }
+.bold {
+font-weight: bold;
+}
+.img-div{background-color: lightblue;}
+.light{background-color: aliceblue;}
+img{width: 14.4%;
+    box-shadow: 3px 3px 7px black;
+    margin: 1%;
+}
+#img-1 {display: none;}

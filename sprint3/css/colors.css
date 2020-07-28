@@ -1,0 +1,9 @@
+#colorDiv {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 255, 0.158);
+}
+html {
+    background: url("/img/programer1.jpg") no-repeat;
+}
